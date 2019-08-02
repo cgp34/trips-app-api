@@ -1,5 +1,5 @@
 {
-  "body": "{\"content\":\"hello world\",\"attachment\":\"hello.jpg\"}",
+  "body": "{\"tripName\":\"Honeymoon\",\"methodOfTransport\":\"Airplane\",\"destination\":\"Fiji\",\"departureDate\":\"01282018\",\"returnDate\":\"02152018\",\"attachment\":\"hello.jpg\"}",
   "requestContext": {
     "identity": {
       "cognitoIdentityId": "USER-SUB-1234"
